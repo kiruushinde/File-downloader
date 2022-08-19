@@ -1,0 +1,4 @@
+form input:valid~button {
+    opacity: 1;
+    pointer-events: auto;
+}
